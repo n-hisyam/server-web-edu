@@ -1,0 +1,4 @@
+bcrypt==4.2.1
+bottle==0.13.2
+bottle-cors==0.1.5
+PyMySQL==1.1.1
