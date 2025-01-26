@@ -2,10 +2,10 @@ import pymysql
 
 # Konfigurasi koneksi
 config = {
-    'host': 'sql202.infinityfree.com',  # Alamat server
-    'user': 'if0_38181432',       # Username MySQL
-    'password': 'et77P245WRGM00 ',       # Password MySQL
-    'database': 'if0_38181432_web_pkn',  # Nama database
+    'host': 'bnwhyiqbdwivwzitaygw-mysql.services.clever-cloud.com',  # Alamat server
+    'user': 'ucof5wzkzblsdfcg',       # Username MySQL
+    'password': 'gKJCYYJDlyeBCQkb8rPK',       # Password MySQL
+    'database': 'bnwhyiqbdwivwzitaygw',  # Nama database
 }
 
 try:
